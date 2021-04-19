@@ -5,3 +5,27 @@ of faces from [Flickr-Faces-HQ Dataset (FFHQ)](https://drive.google.com/file/d/1
 
 ## Examples:
 ![photo 1](images/Figure_5.png)
+
+![photo 1](images/Figure_1.png)
+
+![photo 1](images/Figure_2.png)
+
+![photo 1](images/Figure_01.png)
+
+![photo 1](images/Figure_02.png)
+
+![photo 1](images/Figure_3.png)
+
+![photo 1](images/Figure_03.png)
+
+![photo 1](images/Figure_4.png)
+
+![photo 1](images/Figure_04.png)
+
+![photo 1](images/Figure_5.png)
+
+![photo 1](images/Figure_6.png)
+
+![photo 1](images/Figure_06.png)
+
+![photo 1](images/Figure_7.png)
